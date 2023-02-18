@@ -1,0 +1,9 @@
+:root {
+  --border-width-300: 1px;
+  --border-width-400: 2px;
+  --border-width-500: 3px;
+
+  --border-radius-300: 4px;
+  --border-radius-400: 8px;
+  --border-radius-500: 12px;
+}
